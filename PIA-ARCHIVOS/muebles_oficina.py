@@ -5,16 +5,9 @@
 #Estructura
 
 while True:
-    print("- Menu para Muebles de Oficina -")
-    print("1.- Agregar producto")
-    print("2.- Agregar comentario")
-    print("3.- Ver producto")
-    print("4.- Ver productos")
-    print("5.- Eliminar producto")
-    print("6.- Modificar producto")
-    print("7.- Salir")
-    
-    opcion = int(input("¿Que opcion que deseas trabajar?"))
+    print("- Menu Muebles Oficina -")
+    print("\n1.Agregar Producto\n2.Agregar Comentarios\n3. Ver Producto\n4. Ver Productos\n5.Eliminar Productos\n6. Modificar Producto\n7.Salir")
+    opcion = input("¿Que opcion que deseas trabajar?")
     
     if opcion == 1:
         pass
