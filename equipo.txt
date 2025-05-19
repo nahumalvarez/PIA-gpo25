@@ -1,5 +1,6 @@
 Grupo 25
 Integrantes
 2116631 | Angel Nahum Gerardo Alvarez Moreno | nahumalvarez
-2139642   Melany Fernanda Martinez Vazquez Fernandavzz
+2139642 | Melany Fernanda Martinez Vazquez | Fernandavzz
+2041992 | Edgar Alexander Orta Guerrero | Alex-7cryp
 Matricula | Nombre | usuario Github
